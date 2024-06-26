@@ -1,0 +1,3 @@
+2 ERROR: Failed to load configuration
+5 ERROR: Unable to connect to database
+8 ERROR: Unable to connect to database
