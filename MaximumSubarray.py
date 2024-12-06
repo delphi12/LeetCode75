@@ -23,5 +23,5 @@ def max_subarray(arr):
 #arr=[-2,1,-3,4,-1,2,1,-5,4]
 #max_subarray(arr)
 
-arr=[5,4,-1,7,8]
+arr=[2,-8,3,-2,4,-10]
 max_subarray(arr)
